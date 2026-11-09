@@ -1,4 +1,4 @@
-# Hi, I'm Judi 👋
+# Hi, I'm Judicha 👋
 
 **Data Engineer apprentice** · Master's student in Big Data & AI
 
